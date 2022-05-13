@@ -8,7 +8,7 @@ $ docker build -t highs-docker /path/to/Dockerfile
 
 ## Run
 ```shell
-$ docker run -itd --name highs rzorangesky/highs-docker /bin/sh
+$ docker run -itd --name highs highs-docker /bin/sh
 ```
 
 ## Verify
