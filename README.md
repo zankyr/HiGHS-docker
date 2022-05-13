@@ -1,5 +1,5 @@
 # HiGHS-docker
-A Docker image for the HiHGS Linear optimization software
+A Docker image for the [HiHGS](https://github.com/ERGO-Code/HiGHS) Linear optimization software
 
 ## Build
 ```shell
